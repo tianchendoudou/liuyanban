@@ -1,0 +1,2 @@
+FLASK_APP=tcliuyanban
+FLASK_ENV=development
